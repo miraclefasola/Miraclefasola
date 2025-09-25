@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Miracle Fasola 👋</h1>
-<h3 align="center">Junior Backend Developer | AWS Certified Cloud Practitioner | Direct Response Copywriter</h3>
+<h3 align="center">Backend Developer | AWS Certified Cloud Practitioner | Direct Response Copywriter</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fasolamiracle">
