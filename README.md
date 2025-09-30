@@ -7,97 +7,135 @@
   </a>
   <a href="https://github.com/MiracleFasola">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="[Your AWS Certificate Link]">
-    <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified">
-  </a>
-  <a href="[Your Copywriting Portfolio]">
-    <img src="https://img.shields.io/badge/Portfolio-Copywriting-green?style=for-the-badge" alt="Copywriting Portfolio">
-  </a>
+  <a href="https://medium.com/@mimidev">
+  <img src="https://img.shields.io/badge/Medium-1A8917?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+</a>
+
+
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate Junior Backend Engineer with expertise in Python, Django, and MySQL, currently expanding my skills into MongoDB and API development. As an AWS Certified Cloud Practitioner preparing for the Solutions Architect Associate exam, I have hands-on experience with EC2, S3, RDS, and IAM services.
+As a Backend Developer specializing in **Python, Django, and PostgreSQL/MySQL**, I architect and deploy **production-ready applications on AWS** using EC2, Elastic Beanstalk, S3, API Gateway, Lambda, RDS, and CloudFormation. I've successfully deployed full-stack applications with **zero-cost infrastructure optimization** using free-tier services.
 
-What sets me apart is my unique combination of technical backend development skills and direct response copywriting expertise, having helped clients generate over $3,000 in sales through strategic messaging.
+What sets me apart is my unique combination of **backend engineering expertise** and **direct response copywriting skills**, having helped clients generate **over $3,000 in sales** through strategic messaging while building scalable systems that solve real-world problems.
 
-- 🔭 I'm currently enhancing my skills through the **ALX Backend Engineering Program**
-- 🌱 I'm expanding my knowledge in **cloud architecture** and **system design**
-- 💡 I'm passionate about building **scalable backend systems** that solve real-world problems
-- ✍️ I leverage my **copywriting skills** to help tech products communicate effectively
+**🚀 Currently Building:** The first-ever **free women's football-only statistics API and a central hub for women's football statistics** serving hundreds of users monthly across Europe's top 5 leagues and NWSL.
+
+- 🔭 **Current Role:** Backend Developer/AWS Solutions Architect (Freelance)
+- 🌱 **Expanding:** Advanced AWS services and system design patterns
+- 💡 **Passionate about:** Building scalable backend systems that solve real-world problems
+- ✍️ **Unique Edge:** Leveraging copywriting skills to help tech products communicate effectively
+- 📚 **Learning:** Javascript/NodeJs
 
 ---
 
 ## 🛠️ Technical Skills
 
+
 **Backend Development:**
-- Python (Control Flow, OOP, Data Structures)
-- Django Framework
-- MySQL/PostgreSQL & Database Management
-- API Development
+Python - Django - Django REST Framework
+PostgreSQL/MySQL - RESTful APIs - JWT Authentication
 
 **Cloud & DevOps:**
-- AWS (EC2, S3, IAM, VPC, RDS, CloudFormation, Lambda)
-- Git & GitHub
+AWS: VPC - EC2 - Elastic Beanstalk - CloudWatch - ECR - ECS
+Fargate - IAM - S3 - Lambda - CloudFormation - SNS
+Git & GitHub - Production Deployment - Cost Optimization
 
+**Data & Monitoring:**
+Database Design - Custom CloudWatch Metrics
+Real-time Monitoring - Automated Alerting
 
 **Additional Skills:**
-- Direct Response Copywriting
-- Content Strategy
-- SEO Optimization
-- Technical Writing
+Direct Response Copywriting - Content Strategy
+Market Research - Email Marketing
+Technical Writing
 
 ---
 
+---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=MiracleFasola&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em" />
+  
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiracleFasola&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiracleFasola&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
 
 ## 🚀 Featured Projects
 
-### Backend Projects
-- **[Project 1]** - Django-based Social Media app mirroring X(Formerly Twitter) with MySQL integration
-- **[Project 2]** - RESTful API development with authentication that provides near real-time women's football stats
-- **[Project 3]** - AWS deployment with EC2 and S3 integration
+### 🏆 WosoStat - Women's Football Statistics Platform
+**Tech Stack:** `Python` `Django REST Framework` `PostgreSQL` `AWS` `JWT` `Web Scraping`
+
+- **Impact:** Solved critical data accessibility in women's football
+- **Scale:** Serving hundreds of users monthly with comprehensive stats across Europe's top 4 leagues + NWSL
+- **Infrastructure:** Production-ready AWS deployment (EC2, CloudWatch, SNS, VPC) with **$0 monthly costs**
+- **Features:** Custom FBref scraping, JWT authentication, email verification, automated cleanup jobs
+- **Community:** Generated 50,000+ Twitter impressions on launch
+- **Innovation:** First-ever free women's football-only statistics API
 
 ### Copywriting Portfolio
-- Generated $500+ revenue through email campaigns
-- Developed compelling website copy for Trams Africa
-- Created targeted marketing materials that drove user engagement
+- **Results:** Generated $3,000 in sales through strategic outreach
+- **Scale:** Onboarded 8 new clients through market research and email campaigns
+- **Social:** Grew niche Twitter brand to 1,376 followers with 17M impressions
+
 
 ---
 
 ## 💼 Professional Experience
 
-**Backend Development/AWS** (01/2025 - Present)
-- Django-based Social Media app mirroring X(Formerly Twitter) with MySQL integration
-- RESTful API development with authentication that provides near real-time women's football stats
-- Implemented AWS IAM and S3 services in projects
-- Utilized Git & GitHub for version control
+**Backend Developer/AWS Solutions Architect** | *Freelance* | *01/2025 - Present*
+- 🔧 **Problem Solving:** Developed centralised women's football statistics platform addressing a critical data gap
+- ☁️ **Cloud Architecture:** Deployed production AWS infrastructure, maintaining zero monthly costs through strategic optimization
+- 🔒 **Security & Auth:** Implemented robust JWT authentication, email verification, and automated user management
+- 📊 **Monitoring:** Built comprehensive CloudWatch metrics for request tracking, error monitoring, and SNS alerting
+- 📈 **Impact:** Generated 50,000+ Twitter impressions, extensive user feedback, continuous platform growth
+- 📚 **Documentation:** Created architecture diagrams, technical articles, and open-source repositories
 
-**Copywriter / Content Strategist** (Jun 2022 - Present)
-- Crafted compelling website copy for tech platforms
-- Created targeted marketing content that drove conversions
-- Improved SEO and increased organic traffic by 40% in 2 months
+**Sales & Marketing Specialist/Copywriter** | *Joedan Hospital Ltd./Freelance* | *08/2022 - 08/2024*
+- 💰 **Revenue Generation:** $3,000 in direct sales through market research and targeted outreach
+- 🐦 **Social Growth:** 1,376 followers, 17M impressions on niche Twitter brand
+- 🏗️ **Project Management:** Led morgue renovation project with stakeholder coordination
 
+---
+## 🎓 Education & Certifications
+
+**BSc (Hons) Biological Sciences** | *Federal University of Agriculture, Abeokuta* | *2018-2023*
+
+**Certifications:**
+- 🏅 **AWS Certified Cloud Practitioner**
+- 🏅 **AWS Certified Solutions Architect**
+- 🏅 **ALX Africa Software Engineering Certificate**
+
+---
 ---
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [linkedin.com/in/fasolamiracle](https://www.linkedin.com/in/fasolamiracle)
-- 🐦 Twitter: [@JustMimi___](https://twitter.com/JustMimi___)
-- 📧 Email: [fasolamiracle001@gmail.com](mailto:fasolamiracle001@gmail.com)
-- 📝 Medium: [medium.com/@mimiapexpredator](https://medium.com/@mimiapexpredator)
-
-
+| Platform | Link |
+|----------|------|
+| 💼 **LinkedIn** | [linkedin.com/in/fasolamiracle](https://www.linkedin.com/in/fasolamiracle) |
+| 🐦 **Twitter** | [@JustMimi___](https://twitter.com/JustMimi___) |
+| 📧 **Email** | [fasolamiracle001@gmail.com](mailto:fasolamiracle001@gmail.com) |
+| 📝 **Medium** | [@mimidev](https://medium.com/@mimidev) |
 ---
 
 <p align="center">
-  <i>Open to collaborating on interesting projects!</i><br>
-  <i>Let's build something amazing together.</i>
+  <h3>🚀 Available for Backend Development & AWS Architecture Projects</h3>
+  <p><i>"Building scalable systems that solve real problems, with the copywriting skills to help you sell them."</i></p>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MiracleFasola&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+>
