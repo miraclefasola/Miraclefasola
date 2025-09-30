@@ -59,11 +59,11 @@ Technical Writing
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=MiracleFasola&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em" />
   
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiracleFasola&theme=tokyonight" alt="GitHub Streak" />
